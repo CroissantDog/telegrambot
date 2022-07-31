@@ -25,9 +25,9 @@ Commands:
      /kiss - Send a gif summoning '@' to kiss someone
 
 
-    /nukecodes - Type a number... Degenerate.
+    /nukecodes - You know...
+   
     
-
     /yt - Type anything and it'll search in YouTube
     
 
