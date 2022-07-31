@@ -2,7 +2,7 @@
 
 This is a telegram bot based in Noelle a character from Genshin Impact.
 
-This bot can sends anime gifs, trim urls, use YouTube search and reply with hentai doujinshis to five-digit numbers.
+This bot can sends anime gifs, trim urls, use YouTube search and more.
 
 
 Commands: 
